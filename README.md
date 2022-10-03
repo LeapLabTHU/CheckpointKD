@@ -5,4 +5,4 @@ This repo contains the official **PyTorch** code for CheckpointKD [[paper]](to d
 
 ### Contact
 
-If you have any question, please feel free to contact the authors. Chaofei Wang, Qisen Yang: [{wangcf18, yangqs19} @mails.tsinghua.edu.cn](mailto:pxr18@mails.tsinghua.edu.cn).
+If you have any question, please feel free to contact the authors. Chaofei Wang: [wangcf18@mails.tsinghua.edu.cn](mailto:wangcf18@mails.tsinghua.edu.cn), Qisen Yang: [yangqs19@mails.tsinghua.edu.cn](mailto:wangcf18@mails.tsinghua.edu.cn), 
