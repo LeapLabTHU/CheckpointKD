@@ -1,7 +1,7 @@
 # Don’t Throw Your Model Checkpoints Away
 This repo contains the official **PyTorch** code for CheckpointKD [[paper]](to do: add paper link). (**Will be released soon!**)
 
-![SketchMap](figures/test.png)
+![Sketch Map](figures/observations.png)
 
 ### Contact
 
