@@ -8,8 +8,6 @@ This repo contains the official **PyTorch** code for CheckpointKD [[paper]](to d
 
 ## Introduction
 
----
-
 ![Sketch Map](figures/observations.png)
 We make an intriguing observation that an intermediate model, i.e., a checkpoint in the middle of the training procedure, often serves as a better teacher compared to the fully converged model, although the former has much lower accuracy. More surprisingly, a weak snapshot ensemble of several intermediate models from a same training trajectory can outperform a strong ensemble of independently trained and fully converged models, when they are used as teachers. 
 
