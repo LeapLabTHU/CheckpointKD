@@ -14,8 +14,6 @@ We make an intriguing observation that an intermediate model, i.e., a checkpoint
 
 ## Usage
 
----
-
 ### Requirements
 
 ```
@@ -45,13 +43,9 @@ python main.py --data cifar100  --train_student  --desemble_epoch  --arch ${stud
 
 ## Contact
 
----
-
 If you have any question, please feel free to contact the authors. Chaofei Wang: [wangcf18@mails.tsinghua.edu.cn](mailto:wangcf18@mails.tsinghua.edu.cn), Qisen Yang: [yangqs19@mails.tsinghua.edu.cn](mailto:wangcf18@mails.tsinghua.edu.cn).
 
 ## Citation
-
----
 
 If you find our work is useful in your research, please consider citing:
 
